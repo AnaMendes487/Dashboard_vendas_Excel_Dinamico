@@ -1,4 +1,4 @@
-Dashboard dinâmico feito pelo Excel para análise de vendas de uma empresa ficticia.
+Dashboard dinâmico feito com a ferramenta: Excel para análise de vendas de uma empresa ficticia.
 
 
 
